@@ -1,4 +1,4 @@
-Feature: To handle dropdowns
+Feature: To handle static  and dynamic
 @StaticDropdown
   Scenario: To handle the static dropdown
     Given  User navigates to URL
